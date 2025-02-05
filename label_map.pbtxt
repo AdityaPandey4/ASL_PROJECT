@@ -1,0 +1,12 @@
+item { 
+	name:'fine'
+	id:1
+}
+item { 
+	name:'finish'
+	id:2
+}
+item { 
+	name:'go'
+	id:3
+}
